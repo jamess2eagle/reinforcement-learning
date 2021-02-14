@@ -17,7 +17,7 @@ epsilon = 0.9
 EPS_DECAY = 0.9998
 SHOW_EVERY = 3000
 
-start_q_table = None # or filename like "qtable-1611555678.pickle"
+start_q_table = "qtable-1611555678.pickle" # or filename like "qtable-1611555678.pickle"
 
 LEARNING_RATE = 0.1
 DISCOUNT = 0.95
